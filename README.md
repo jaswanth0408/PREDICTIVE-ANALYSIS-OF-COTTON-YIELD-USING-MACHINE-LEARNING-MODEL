@@ -1,0 +1,2 @@
+# PREDICTIVE-ANALYSIS-OF-COTTON-YIELD-USING-MACHINE-LEARNING-MODEL
+This repository focuses on developing a machine learning based predictive model for cotton yield estimation using key parameters such as state, district, soil type, annual rainfall, and fertilizer content . By analyzing historical data and employing data mining techniques, the proposed model aims to enhance accuracy in yield forecasting.
